@@ -1,2 +1,2 @@
 # DataStructures
-Acouple of projects from my Data Structures class
+A couple of projects from my Data Structures class
